@@ -1,0 +1,14 @@
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\SistemaZoologico\SistemaZoologico\bin\Debug\net8.0\SistemaZoologico.exe
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\SistemaZoologico\SistemaZoologico\bin\Debug\net8.0\SistemaZoologico.deps.json
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\SistemaZoologico\SistemaZoologico\bin\Debug\net8.0\SistemaZoologico.runtimeconfig.json
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\SistemaZoologico\SistemaZoologico\bin\Debug\net8.0\SistemaZoologico.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\SistemaZoologico\SistemaZoologico\bin\Debug\net8.0\SistemaZoologico.pdb
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\SistemaZoologico\SistemaZoologico\obj\Debug\net8.0\SistemaZoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\SistemaZoologico\SistemaZoologico\obj\Debug\net8.0\SistemaZoologico.AssemblyInfoInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\SistemaZoologico\SistemaZoologico\obj\Debug\net8.0\SistemaZoologico.AssemblyInfo.cs
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\SistemaZoologico\SistemaZoologico\obj\Debug\net8.0\SistemaZoologico.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\SistemaZoologico\SistemaZoologico\obj\Debug\net8.0\SistemaZoologico.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\SistemaZoologico\SistemaZoologico\obj\Debug\net8.0\refint\SistemaZoologico.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\SistemaZoologico\SistemaZoologico\obj\Debug\net8.0\SistemaZoologico.pdb
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\SistemaZoologico\SistemaZoologico\obj\Debug\net8.0\SistemaZoologico.genruntimeconfig.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\SistemaZoologico\SistemaZoologico\obj\Debug\net8.0\ref\SistemaZoologico.dll
